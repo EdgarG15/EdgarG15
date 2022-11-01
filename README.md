@@ -1,7 +1,7 @@
 ### Holaaa.......🐱‍👤  
 <div align="center">
-//<img src="https://media1.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" align="center" style="width: 100%" />
-</div>  
+<img src="https://media1.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" align="center" style="width: 100%" />
+</div>
   
 
 ### <div align="center">Yo soy Edgar Hernández, actualmente soy estudiante en el desarrollo de software multiplataforma 👨‍💻 tengo 20 años 😎.</div>  
