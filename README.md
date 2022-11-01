@@ -1,6 +1,6 @@
 ### Holaaa.......🐱‍👤  
 <div align="center">
-<img src="https://media1.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" align="center" style="width: 100%" />
+//<img src="https://media1.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" align="center" style="width: 100%" />
 </div>  
   
 
