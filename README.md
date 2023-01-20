@@ -4,7 +4,7 @@
 </div>
   
 
-### <div align="center">Yo soy Edgar Hernández, actualmente soy estudiante en el desarrollo de software multiplataforma 👨‍💻 tengo 20 años 😎.</div>  
+### <div align="center">Yo soy Edgar Hernández, actualmente soy estudiante en el desarrollo de software multiplataforma 👨‍💻 tengo 21 años 😎.</div>  
   
 
 - 🔭 Actualmente trabajo de manera independiente.
