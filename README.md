@@ -1,8 +1,4 @@
 ### Holaaa🐱‍👤  
-<div align="center">
-<img src="https://media1.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" align="center" style="width: 100%" />
-</div>
-  
 
 ### <div align="center">Yo soy Edgar Hernández, actualmente soy estudiante en el desarrollo de software multiplataforma 👨‍💻 tengo 21 años 😎.</div>  
   
@@ -41,16 +37,6 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-
-<br/> 
-
-## My playlist Music 😎😎
-
-<br>
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=edgarjgohan&cover_image=true&theme=default&bar_color=0011ff&bar_color_cover=true" /></div>  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=EdgarG15&&style=flat-square" align="center" />
